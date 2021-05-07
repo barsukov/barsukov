@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barsukov
-- 👀 I’m interested in Computer Science, Frontend and Design Higload applications.
+- 👀 I’m interested in Computer Science, Frontend and Designing Data-Intensive applications.
 - 🌱 I’m currently learning XState, Next.js and Highload
 - 💞️ I’m looking to collaborate on Web-Audio
 - 📫 How to reach me pro.barsukov@gmail.com
