@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barsukov
 - 👀 I’m interested in Computer Science, Frontend and Designing Data-Intensive applications.
-- 🌱 I’m currently learning Vue/Nuxt, Next.js and Highload
+- 🌱 I’m currently learning Vue/Nuxt, Angular, Nest.js, Next.js and Highload
 - 💞️ I’m looking to collaborate on Web-Audio
 - 📫 How to reach me pro.barsukov@gmail.com
 
